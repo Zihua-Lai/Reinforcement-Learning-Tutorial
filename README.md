@@ -11,6 +11,7 @@ It provides a lot of virtual enviroment
 
 ## Algorithms
 * Introduction(1) -- Markov Decision Process(MDP)
+* MDP_ Bellman Expectation Equation 
 * Q learning
 * Sarsa
 * Deep Q Network
