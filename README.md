@@ -9,7 +9,8 @@ You can use it to create virtual environment
 * Open AI gym
 It provides a lot of virtual enviroment 
 
-## Algorithms 
+## Algorithms
+* Introduction(1) -- Markov Decision Process(MDP)
 * Q learning
 * Sarsa
 * Deep Q Network
